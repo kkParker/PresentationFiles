@@ -2,7 +2,7 @@
 ## Welcome. Please find files from my Conference Presentations
 
 ### DASI 2023 (DSI Brown Bag April 13, 2023)
-* DASI: How will ChatGPT affect data analysis instruction (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASISEDSI%202023RStudioPythonR.pdf">Presentation</a>)
+* DASI: How will ChatGPT affect data analysis instruction (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASIChatGPTApr23.pdf">Presentation</a>)
 
 ### SEDSI 2023 (Wilmington, NC)
 * DASI: Using R Studio and Quarto for R and Python (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASISEDSI%202023RStudioPythonR.pdf">Presentation</a>)
