@@ -1,6 +1,11 @@
 # PresentationFiles
 ## Welcome. Please find files from my Conference Presentations
 
+### #MissionMorale 5-24-23
+* POLL: https://www.menti.com/al8pcxtzs2vm
+* CONTINUE: https://padlet.com/kkeeling/mission-morale-may-23-continue-wsiwlfg6wnnbcu40
+* START: mission-morale-may-23-start-rypz1dpbod6x9roc
+
 ### DASI 2023 (DSI Brown Bag April 13, 2023)
 * DASI: How will ChatGPT affect data analysis instruction (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASIChatGPTApr23.pdf">Presentation</a>)
 
