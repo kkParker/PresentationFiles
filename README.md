@@ -1,6 +1,9 @@
 # PresentationFiles
 ## Welcome. Please find files from my Conference Presentations
 
+### DASI 2023 (DSI Brown Bag Aug 9, 2023)
+* DASI: Discussion of AI - What's the best approach for the use of ChatGPT for fall university classes in analytics, statistics, programming or other topics that address data use? (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASI AI Discussion Keeling.pdf">Presentation</a>)
+
 ### #MissionMorale 5-24-23
 * POLL: [https://www.menti.com/al8pcxtzs2vm](https://www.menti.com/al8pcxtzs2vm)
 * CONTINUE: https://padlet.com/kkeeling/mission-morale-may-23-continue-wsiwlfg6wnnbcu40
