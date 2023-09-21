@@ -1,6 +1,10 @@
 # PresentationFiles
 ## Welcome. Please find files from my Conference Presentations
 
+### SOTL Research Symposium
+* POSTER: [Link Coming]()
+* Padlet Question: How do you provide "differentiated instruction" for students at different levels in your course with the hope that everyone gains? [https://padlet.com/kkeeling/SOTLKeelingOct23](https://padlet.com/kkeeling/SOTLKeelingOct23)
+
 ### DASI 2023 (DSI Brown Bag Aug 9, 2023)
 * DASI: Discussion of AI - What's the best approach for the use of ChatGPT for fall university classes in analytics, statistics, programming or other topics that address data use? (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASI AI Discussion Keeling.pdf">Presentation</a>)
 
