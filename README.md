@@ -2,7 +2,7 @@
 ## Welcome. Please find files from my Conference Presentations
 
 ### SOTL Research Symposium
-* POSTER: [Link Coming]()
+* POSTER: (<a href="https://github.com/kkParker/PresentationFiles/blob/main/KeelingSoTLPoster_MSBACodingModelingSkills_v9.22.pdf">Assessing MSBA Students’ Coding and Modeling Skills</a>)
 * Padlet Question: How do you provide "differentiated instruction" for students at different levels in your course with the hope that everyone gains? [https://padlet.com/kkeeling/SOTLKeelingOct23](https://padlet.com/kkeeling/SOTLKeelingOct23)
 
 ### DASI 2023 (DSI Brown Bag Aug 9, 2023)
