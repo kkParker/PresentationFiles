@@ -1,6 +1,9 @@
 # PresentationFiles
 ## Welcome. Please find files from my Conference Presentations
 
+### DSI 2022 (Houston, TX)
+* DASI: Business Analytics Alumni Survey (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASI%20DSI%202023BIAAlumniSurvey.pptx">Presentation</a>)
+
 ### SOTL Research Symposium
 * POSTER: (<a href="https://github.com/kkParker/PresentationFiles/blob/main/KeelingSoTLPoster_MSBACodingModelingSkills_v9.22.pdf">Assessing MSBA Students’ Coding and Modeling Skills</a>)
 * Padlet Question: How do you provide "differentiated instruction" for students at different levels in your course with the hope that everyone gains? [https://padlet.com/kkeeling/SOTLKeelingOct23](https://padlet.com/kkeeling/SOTLKeelingOct23)
