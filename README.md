@@ -1,7 +1,7 @@
 # PresentationFiles
 ## Welcome. Please find files from my Conference Presentations
 
-### DSI 2022 (Houston, TX)
+### DSI 2023 (Atlanta, GA)
 * DASI: Business Analytics Alumni Survey (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASI%20DSI%202023BIAAlumniSurvey.pptx">Presentation</a>)
 
 ### SOTL Research Symposium
