@@ -1,12 +1,12 @@
 # PresentationFiles
 ## Welcome. Please find files from my Conference Presentations
 
+### SOTL Research Symposium
+* POSTER: (<a href="https://github.com/kkParker/PresentationFiles/blob/main/KeelingSoTLPoster_MSBACodingModelingSkills_v9.30.24.pdf">Assessing MSBA Students’ Coding and Modeling Skills v.2</a>)
+* Padlet Question: How do you provide "differentiated instruction" for students at different levels in your course with the hope that everyone gains? [https://padlet.com/kkeeling/SOTLKeelingOct24](https://padlet.com/kkeeling/SOTLKeelingOct24)
+
 ### DSI 2023 (Atlanta, GA)
 * DASI: Business Analytics Alumni Survey (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASI%20DSI%202023BIAAlumniSurvey.pptx">Presentation</a>)
-
-### SOTL Research Symposium
-* POSTER: (<a href="https://github.com/kkParker/PresentationFiles/blob/main/KeelingSoTLPoster_MSBACodingModelingSkills_v9.22.pdf">Assessing MSBA Students’ Coding and Modeling Skills</a>)
-* Padlet Question: How do you provide "differentiated instruction" for students at different levels in your course with the hope that everyone gains? [https://padlet.com/kkeeling/SOTLKeelingOct23](https://padlet.com/kkeeling/SOTLKeelingOct23)
 
 ### DASI 2023 (DSI Brown Bag Aug 9, 2023)
 * DASI: Discussion of AI - What's the best approach for the use of ChatGPT for fall university classes in analytics, statistics, programming or other topics that address data use? (<a href="https://github.com/kkParker/PresentationFiles/blob/main/DASI AI Discussion Keeling.pdf">Presentation</a>)
