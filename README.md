@@ -2,7 +2,7 @@
 ## Welcome. Please find files from my Conference Presentations
 
 ### DSI 2024 (Phoenix, AZ)
-* DASI: <a href="https://github.com/kkParker/PresentationFiles/blob/main/DASI DSI 2024 AdaptAssignmentsAI.pdf">DASI DSI 2024 AdaptAssignmentsAI.pdf</a>) 
+* DASI: <a href="https://github.com/kkParker/PresentationFiles/blob/main/DASI%20DSI%202024%20AdaptAssignmentsAI.pdf">DASI DSI 2024 AdaptAssignmentsAI.pdf</a>) 
 ### SOTL Research Symposium
 * POSTER: (<a href="https://github.com/kkParker/PresentationFiles/blob/main/KeelingSoTLPoster_MSBACodingModelingSkills_v9.30.24.pdf">Assessing MSBA Students’ Coding and Modeling Skills v.2</a>)
 * Padlet Question: How do you provide "differentiated instruction" for students at different levels in your course with the hope that everyone gains? [https://padlet.com/kkeeling/SOTLKeelingOct24](https://padlet.com/kkeeling/SOTLKeelingOct24)
