@@ -3,7 +3,7 @@
 
 ### SOTL Research Symposium 25
 * POSTER: (<a href="https://github.com/kkParker/PresentationFiles/blob/main/KeelingSoTLPoster_AI_Coding_10.16.25.pdf">Learning Coding: Student Perceptions of AI Use</a>)
-* Padlet Question: How do you ensure students are still using their Critical Thinking Skills when they can easily “get an answer” to most questions? [https://padlet.com/kkeeling/SOTLKeelingOct24](https://padlet.com/kkeeling/SOTLKeelingOct25)
+* Padlet Question: How do you ensure students are still using their Critical Thinking Skills when they can easily “get an answer” to most questions? [https://padlet.com/kkeeling/SOTLKeelingOct25](https://padlet.com/kkeeling/SOTLKeelingOct25)
 
 ### DSI 2024 (Phoenix, AZ)
 * DASI: <a href="https://github.com/kkParker/PresentationFiles/blob/main/DASI%20DSI%202024%20AdaptAssignmentsAI.pdf">DASI DSI 2024 Adapting Assignment based on GAI</a>) and Scott Toney's DB Class Restructure: <a href="https://github.com/kkParker/PresentationFiles/blob/main/DSI%20presentation%20on%20student%20support.pptx">DASI DSI 2024 Adapting Assignment based on GAI</a>
