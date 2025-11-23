@@ -1,5 +1,8 @@
 # PresentationFiles
 ## Welcome. Please find files from my Conference Presentations
+### DSI 2025 (Orlando, FL)
+* DASI: <a href="https://github.com/kkParker/PresentationFiles/blob/main/DSI25DASILucidChart.pdf">DASI DSI 2025 Using LucidChart/Spark for Student Collaboration
+</a>)
 
 ### SOTL Research Symposium 25
 * POSTER: (<a href="https://github.com/kkParker/PresentationFiles/blob/main/KeelingSoTLPoster_AI_Coding_10.16.25.pdf">Learning Coding: Student Perceptions of AI Use</a>)
