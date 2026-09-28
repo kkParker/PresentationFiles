@@ -1,5 +1,11 @@
 # PresentationFiles
 ## Welcome. Please find files from my Conference Presentations
+
+### SOTL Research Symposium 26
+* POSTER: (<a href="https://github.com/kkParker/PresentationFiles/blob/main/KeelingSoTLPoster_XXXXX.pdf">Coming Soon</a>)
+* Padlet Question: What's one assignment, activity, or policy you use to keep students thinking when GAI can hand them an answer? [ANSWER IN PADLET](https://padlet.com/kkeeling/sotl-26-research-symposium-s0240jfbj51swfmlcweh)
+
+* 
 ### DSI 2025 (Orlando, FL)
 * DASI: <a href="https://github.com/kkParker/PresentationFiles/blob/main/DSI25DASILucidChart.pdf">DASI DSI 2025 Using LucidChart/Spark for Student Collaboration
 </a>)
